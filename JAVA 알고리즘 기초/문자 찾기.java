@@ -18,7 +18,7 @@ class Main {
 
         for (int i=0; i < words.length(); i++) {
             if (words.charAt(i) == word) {
-                 cnt++;
+                cnt++;
             }
         }      
 
